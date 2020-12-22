@@ -1,0 +1,2 @@
+table:spenslep_myTable1,id:int:not_null:key,pname:varchar(15):not_null,price:float:not_null,region:char(4)
+table:spenslep_myTable2,id:int:not_null:key,pname:char(15):not_null,price:float:not_null,region:char(4):not_null
